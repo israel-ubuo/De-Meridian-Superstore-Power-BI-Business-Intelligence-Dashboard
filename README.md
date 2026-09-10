@@ -269,7 +269,7 @@ de-meridian-superstore-power-bi-dashboard/
 ![Location Performance](screenshots/location-performance.png)
 
 ### Operational Analysis
-![Operational Analysis](screenshots/operational-analysis.png)
+![Operational Analysis](screenshots/operational-performance.png)
 
 ---
 
