@@ -253,29 +253,23 @@ de-meridian-superstore-power-bi-dashboard/
 
 ---
 
+
 ## 📸 Dashboard Preview
 
-Screenshots of the major dashboard pages will be included in the `screenshots` directory.
-
 ### Overview
-
-*Dashboard overview screenshot*
+![Overview Dashboard](screenshots/overview.png)
 
 ### Customer Performance
-
-*Customer performance screenshot*
+![Customer Performance](screenshots/customer-performance.png)
 
 ### Product Performance
-
-*Product performance screenshot*
+![Product Performance](screenshots/product-performance.png)
 
 ### Location Performance
-
-*Location performance screenshot*
+![Location Performance](screenshots/location-performance.png)
 
 ### Operational Analysis
-
-*Operational analysis screenshot*
+![Operational Analysis](screenshots/operational-analysis.png)
 
 ---
 
